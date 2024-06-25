@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_height="match_parent"
+    tools:context=".User.UserActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:text="Pick image and food will be added to your cart"
+        android:textColor="@color/colorPrimary"
+        android:layout_height="wrap_content"/>
+
+    <ImageView
+        android:layout_width="240dp"
+        android:layout_marginTop="20dp"
+        android:id="@+id/image"
+        android:src="@drawable/camera"
+        android:layout_height="240dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/opencamera"
+        android:text="Open Camera"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textColor="@color/white"
+        android:background="@drawable/btnround"
+        android:layout_height="wrap_content"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:id="@+id/upload"
+        android:text="Upload and add food"
+        android:textAllCaps="false"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:textColor="@color/white"
+        android:background="@drawable/btnround"
+        android:layout_height="wrap_content"/>
+
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "504816703846",
+    "project_id": "meals-8c01b",
+    "storage_bucket": "meals-8c01b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504816703846:android:ce274ef89e7d83bdb610a7",
+        "android_client_info": {
+          "package_name": "com.graduatio.scanandeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY5iyK9yZBV6w6vBTWn8cAhm3wlSB64kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

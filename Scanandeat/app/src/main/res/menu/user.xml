@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="Home" />
+
+
+    <item
+        android:id="@+id/foods"
+        android:title="Foods" />
+
+
+    <item
+        android:id="@+id/mydeseas"
+        android:title="My deseas" />
+
+
+    <item
+        android:id="@+id/myCart"
+        android:title="My Cart" />
+
+    <item
+        android:id="@+id/myOrder"
+        android:title="My Orders" />
+
+
+
+
+    <item
+        android:id="@+id/profile"
+        android:title="Update Profile" />
+
+
+
+    <item
+        android:id="@+id/password"
+        android:title="Update Password" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+
+
+
+
+
+
+
+
+</menu>
