@@ -18,8 +18,6 @@ To get started with the Scan and Eat project, follow these steps:
 3. **Demo Application (SAE.apk)**  
    The `SAE.apk` file is a demo of the application. You can run it on any Android device or emulator with Android 12+ OS.
 
-4. **Project Documentation**  
-   The `Scan and Eat (SAE) - Final Submission.pdf` provides detailed information on the methods, techniques, and other requirements for the project's proposal and implementation. This is essential reading for understanding the full scope of the project.
 
 ## Resources
 
@@ -29,7 +27,6 @@ To get started with the Scan and Eat project, follow these steps:
 
 - **Scanandeat**: Folder containing the source code.
 - **SAE.apk**: Demo application file.
-- **Scan and Eat (SAE) - Final Submission.pdf**: Detailed project documentation.
 
 ## Contact
 
